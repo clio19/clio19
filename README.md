@@ -3,7 +3,7 @@
 
 I am [Hugo](https://tecdreams.com.com/), a passionate and creative software developer from [🇵🇹](https://en.wikipedia.org/wiki/India)&nbsp; with 2+ years of professional remote working experience. 🎯
 
-I mostly work with Golang and Cloud-Native technologies. 🚀
+I mostly work with Javascript and React-Native technologies. 🚀
 
 
 <p float="left">
