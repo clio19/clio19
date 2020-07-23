@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am [Hugo](https://tecdreams.com.com/), a passionate and creative software developer from [🇵🇹](https://en.wikipedia.org/wiki/India)&nbsp; with 2+ years of professional remote working experience. 🎯
+I am [Hugo](https://tecdreams.com/), a passionate and creative software developer from [🇵🇹](https://en.wikipedia.org/wiki/Portugal)&nbsp; with 2+ years of professional remote working experience. 🎯
 
 I mostly work with Javascript and React-Native technologies. 🚀
 
