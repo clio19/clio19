@@ -10,8 +10,11 @@ I mostly work with Golang and Cloud-Native technologies. 🚀
   <a href="https://github.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/golang.gif"  height="90" />
   </a>
+   <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/Ruby_logo.png"  height="80" /> 
+  </a>
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw...githubusercontent.com/clio19/bio/master/assets/docker.gif"  height="80" /> 
+    <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/Node_logo_NodeJS.png"  height="80" /> 
   </a>
 
  </p>
@@ -21,7 +24,10 @@ I mostly work with Golang and Cloud-Native technologies. 🚀
  <p float="left">
   <a href="https://bit.ly/2W7a91W" target="_blank" >
     <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/do.gif"  height="75" />
-  </a> 
+  </a>&nbsp;&nbsp;
+   <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/docker.gif"  height="80" /> 
+  </a>&nbsp;&nbsp;
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/aws.gif"  height="75" />
   </a>
@@ -53,6 +59,6 @@ I mostly work with Golang and Cloud-Native technologies. 🚀
 
 ### 📫 How to reach me? 
 
-  ⦿ Visit my [Website](https://www.tecdreams.com) 🌐 <br>
+  ⦿ Visit my [Website](https://tecdreams.com) 🌐 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/htrixe/) 💻 <br>
   ⦿ Follow me on [Twitter](https://twitter.com/htrixe) 🐦 <br>
