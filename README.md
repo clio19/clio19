@@ -10,10 +10,10 @@ I mostly work with Javascript and React-Native technologies. 🚀
   <a href="https://github.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/golang.gif"  height="90" />
   </a>&nbsp;&nbsp
-   <a href="https://www.docker.com/" target="_blank" >
+   <a href="https://rubyonrails.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/rails.gif"  height="80" /> 
   </a>&nbsp;&nbsp
-  <a href="https://www.docker.com/" target="_blank" >
+  <a href="https://nodejs.org" target="_blank" >
     <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/Node_logo_NodeJS.png"  height="80" /> 
   </a>
 
@@ -22,13 +22,13 @@ I mostly work with Javascript and React-Native technologies. 🚀
  ### Front
 
  <p float="left">
-  <a href="https://www.postgresql.org/" target="_blank" >
+  <a href="https://reactjs.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/react.gif" height="90" />&nbsp;&nbsp;
   </a>&nbsp;&nbsp
-     <a href="https://www.docker.com/" target="_blank" >
+     <a href="https://angular.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/angular.gif"  height="80" /> 
   </a>&nbsp;&nbsp
-  <a href="https://www.docker.com/" target="_blank" >
+  <a href="https://vuejs.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/vue.gif"  height="80" /> 
   </a>
 
@@ -44,7 +44,7 @@ I mostly work with Javascript and React-Native technologies. 🚀
    <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/docker.gif"  height="80" /> 
   </a>&nbsp;&nbsp;
-  <a href="https://aws.amazon.com/" target="_blank" >
+  <a href="https://heroku.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/heroku.gif"  height="75" />
   </a>
  </p>
@@ -76,7 +76,7 @@ I mostly work with Javascript and React-Native technologies. 🚀
 ### Mobile
 
  <p float="left">
-  <a href="https://www.postgresql.org/" target="_blank" >
+  <a href="https://www.android.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/android.png" height="90" />&nbsp;&nbsp;
   </a>
   
