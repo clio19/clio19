@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-I am [Hugo](https://hctec.pt/), a passionate and creative software developer from [🇵🇹](https://en.wikipedia.org/wiki/Portugal)&nbsp; with 2+ years of professional remote working experience. 🎯
+I am [Hugo](https://hctec.pt/), a passionate and creative software developer from [🇵🇹](https://en.wikipedia.org/wiki/Portugal)&nbsp; with 1+ years of professional remote working experience. 🎯
 
-I mostly work with Javascript and React-Native technologies. 🚀
+I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
 
 
 <p float="left">
