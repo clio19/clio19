@@ -9,15 +9,31 @@ I mostly work with Javascript and React-Native technologies. 🚀
 <p float="left">
   <a href="https://github.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/golang.gif"  height="90" />
-  </a>
+  </a>&nbsp;&nbsp
    <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/Ruby_logo.png"  height="80" /> 
-  </a>
+    <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/rails.png"  height="80" /> 
+  </a>&nbsp;&nbsp
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/Node_logo_NodeJS.png"  height="80" /> 
   </a>
 
  </p>
+ 
+ ### Front
+
+ <p float="left">
+  <a href="https://www.postgresql.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/react.png" height="90" />&nbsp;&nbsp;
+  </a>&nbsp;&nbsp
+     <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/angular.png"  height="80" /> 
+  </a>&nbsp;&nbsp
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/vue.png"  height="80" /> 
+  </a>
+
+ </p>
+  
   
 ### CSPs
   
@@ -29,7 +45,7 @@ I mostly work with Javascript and React-Native technologies. 🚀
     <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/docker.gif"  height="80" /> 
   </a>&nbsp;&nbsp;
   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/aws.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/heroku.png"  height="75" />
   </a>
  </p>
   
@@ -56,6 +72,16 @@ I mostly work with Javascript and React-Native technologies. 🚀
     <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/mongo.gif" height="80" />
   </a>
 </p>
+
+### Mobile
+
+ <p float="left">
+  <a href="https://www.postgresql.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/android.png" height="90" />&nbsp;&nbsp;
+  </a>
+  
+  
+  
 
 ### 📫 How to reach me? 
 
