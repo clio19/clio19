@@ -79,7 +79,7 @@ I mostly work with Javascript and React-Native technologies. 🚀
   <a href="https://www.android.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/android.png" height="90" />&nbsp;&nbsp;
   </a>
-  
+ </p>
   
   
 
