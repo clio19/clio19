@@ -15,6 +15,9 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
   </a>&nbsp;&nbsp
   <a href="https://nodejs.org" target="_blank" >
     <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/Node_logo_NodeJS.png"  height="80" /> 
+  </a>&nbsp;&nbsp
+   <a href="https://www.java.com/pt_PT/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/clio19/bio/master/assets/java-logo.gif"  height="80" /> 
   </a>
 
  </p>
