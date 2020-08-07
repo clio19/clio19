@@ -39,10 +39,7 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
   </a>
 
   ### CSPs
-  <p>
-
-
-
+  
   <a href="https://bit.ly/2W7a91W" target="_blank" >
     <img align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/do.gif" />
   </a>
@@ -52,23 +49,18 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
   <a href="https://heroku.com/" target="_blank" >
     <img align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/heroku.gif" />
   </a>
-   </p>
-   ### Monitoring
-   <p>
 
- 
+   ### Monitoring
+  
   <a href="https://grafana.com/" target="_blank" >
     <img  align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/grafana.gif"  />
   </a>
   <a href="https://prometheus.io/" target="_blank" >
     <img align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/prometheus.gif" />
   </a>
-  </p>
+
   ### Databases
-    <p>
 
-
- <p>
   <a href="https://www.postgresql.org/" target="_blank" >
     <img align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/postgresql.gif" />
   </a>
@@ -76,13 +68,13 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
   <a href="https://www.mongodb.com/" target="_blank" >
     <img align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/mongo.gif" />
   </a>
-  </p>
+
   ### Mobile
-  <p>
+
   <a href="https://www.android.com/" target="_blank" >
     <img align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/android.png"  />
   </a>
-    </p>
+
   <br />
   
   ### Connect with me:
@@ -139,7 +131,7 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=clio19&show_icons=true&hide_border=true" />
   
 
 ### 📫 How to reach me? 
