@@ -11,7 +11,7 @@ I am [Hugo](https://hctec.pt/) - aka [Htrix][website] , a passionate and creativ
 
 I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
 
-
+<p>
 <a href="https://golang.org/" target="_blank" >
 <img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/golang.gif" />
 </a>
@@ -24,7 +24,8 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
 <a href="https://www.java.com/pt_PT/" target="_blank" >
 <img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/java-logo.gif"   />
   </a>
-
+</p>
+  <p>
  ### Frontend
 
   <a href="https://reactjs.org/" target="_blank" >
@@ -37,8 +38,10 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
     <img  align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/vue.gif"  /> 
   </a>
   
+  </p>
+    <p>
 ### CSPs
-  
+
 
   <a href="https://bit.ly/2W7a91W" target="_blank" >
     <img align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/do.gif" />
@@ -49,7 +52,8 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
   <a href="https://heroku.com/" target="_blank" >
     <img align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/heroku.gif" />
   </a>
- 
+   </p>
+    <p>
 ### Monitoring
  
   <a href="https://grafana.com/" target="_blank" >
@@ -58,10 +62,11 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
   <a href="https://prometheus.io/" target="_blank" >
     <img align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/prometheus.gif" />
   </a>
-
+  </p>
+    <p>
 ### Databases
 
- <p float="left">
+ <p>
   <a href="https://www.postgresql.org/" target="_blank" >
     <img align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/postgresql.gif" />
   </a>
@@ -70,18 +75,18 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
     <img align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/mongo.gif" />
   </a>
 </p>
-
+  <p>
 ### Mobile
 
   <a href="https://www.android.com/" target="_blank" >
     <img align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/android.png"  />
   </a>
-  
+    </p>
   <br />
   
   ### Connect with me:
   
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="tecdreams.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="hctec | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="hctec | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="hctec | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -134,7 +139,7 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
 <!-- STACKOVERFLOW:END -->
 
 
-<img align="left" alt="Hctec's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Htrix&show_icons=true&hide_border=true" />
+<img align="left" alt="Hctec's Github Stats" src="https://github-readme-stats.vercel.app/api?username=clio19&show_icons=true&hide_border=true" />
   
 
 ### 📫 How to reach me? 
