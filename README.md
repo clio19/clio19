@@ -78,10 +78,10 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
     <img align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/android.png"  />
   </a>
   
-  <br />
-  ### Mobile
-  <br />
-  ### Connect with me:
+
+ ### Mobile
+ ---
+ ### Connect with me:
   
 [<img align="left" alt="tecdreams.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="hctec | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
