@@ -77,6 +77,8 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
     <img align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/android.png"  />
   </a>
   
+  <br />
+  
   ### Connect with me:
   
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -132,7 +134,7 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
 <!-- STACKOVERFLOW:END -->
 
 
-<img align="left" alt="Hctec's Github Stats" src="https://github-readme-stats.vercel.app/api?username=clio19&show_icons=true&hide_border=true" />
+<img align="left" alt="Hctec's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Htrix&show_icons=true&hide_border=true" />
   
 
 ### 📫 How to reach me? 
