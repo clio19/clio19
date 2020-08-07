@@ -11,6 +11,7 @@ I am [Hugo](https://hctec.pt/) - aka [Htrix][website] , a passionate and creativ
 
 I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
 
+   ### Backend
 <p>
 <a href="https://golang.org/" target="_blank" >
 <img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/golang.gif" />
@@ -25,8 +26,9 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
 <img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/java-logo.gif"   />
   </a>
 </p>
-  <p>
  ### Frontend
+  <p>
+
 
   <a href="https://reactjs.org/" target="_blank" >
     <img align="left" width="26px"  alt="React"  src="https://raw.githubusercontent.com/clio19/bio/master/assets/react.gif" />
@@ -39,8 +41,9 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
   </a>
   
   </p>
-    <p>
-### CSPs
+  ### CSPs
+  <p>
+
 
 
   <a href="https://bit.ly/2W7a91W" target="_blank" >
@@ -53,8 +56,9 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
     <img align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/heroku.gif" />
   </a>
    </p>
-    <p>
-### Monitoring
+   ### Monitoring
+   <p>
+
  
   <a href="https://grafana.com/" target="_blank" >
     <img  align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/grafana.gif"  />
@@ -63,8 +67,9 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
     <img align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/prometheus.gif" />
   </a>
   </p>
+  ### Databases
     <p>
-### Databases
+
 
  <p>
   <a href="https://www.postgresql.org/" target="_blank" >
@@ -74,10 +79,9 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
   <a href="https://www.mongodb.com/" target="_blank" >
     <img align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/mongo.gif" />
   </a>
-</p>
+  </p>
+  ### Mobile
   <p>
-### Mobile
-
   <a href="https://www.android.com/" target="_blank" >
     <img align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/android.png"  />
   </a>
@@ -139,7 +143,7 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
 <!-- STACKOVERFLOW:END -->
 
 
-<img align="left" alt="Hctec's Github Stats" src="https://github-readme-stats.vercel.app/api?username=clio19&show_icons=true&hide_border=true" />
+<img align="left" alt="Hctec's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
   
 
 ### 📫 How to reach me? 
