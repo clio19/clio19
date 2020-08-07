@@ -26,7 +26,7 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
 <img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/java-logo.gif"   />
   </a>
 
- ### Frontend
+ ### Backend
 
   <a href="https://reactjs.org/" target="_blank" >
     <img align="left" width="26px"  alt="React"  src="https://raw.githubusercontent.com/clio19/bio/master/assets/react.gif" />
@@ -38,7 +38,7 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
     <img  align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/vue.gif"  /> 
   </a>
   
-### CSPs
+### Frontend
   
 
   <a href="https://bit.ly/2W7a91W" target="_blank" >
@@ -51,7 +51,7 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
     <img align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/heroku.gif" />
   </a>
  
-### Monitoring
+### CSPs
  
   <a href="https://grafana.com/" target="_blank" >
     <img  align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/grafana.gif"  />
@@ -60,7 +60,7 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
     <img align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/prometheus.gif" />
   </a>
 
-### Databases
+### Monitoring
 
  <p float="left">
   <a href="https://www.postgresql.org/" target="_blank" >
@@ -72,14 +72,15 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
   </a>
 </p>
 
-### Mobile
+### Databases
 
   <a href="https://www.android.com/" target="_blank" >
     <img align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/android.png"  />
   </a>
   
   <br />
-  
+  ### Mobile
+  <br />
   ### Connect with me:
   
 [<img align="left" alt="tecdreams.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
