@@ -109,6 +109,7 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
 <br />
 <br />
 
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Angular a correr no firebase](https://tecdreams.com/angular-a-correr-no-firebase/?utm_source=rss&utm_medium=rss&utm_campaign=angular-a-correr-no-firebase)
@@ -124,10 +125,14 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-
 ---
 
-<img align="left" alt="Hctec's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hctec&show_icons=true&hide_border=true" />
+# StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
+
+<img align="left" alt="Hctec's Github Stats" src="https://github-readme-stats.vercel.app/api?username=clio19&show_icons=true&hide_border=true" />
   
 
 ### 📫 How to reach me? 
