@@ -11,8 +11,8 @@ I am [Hugo](https://hctec.pt/) - aka [Htrix][website] , a passionate and creativ
 
 I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
 
-   ### Backend
-<p>
+ ### Backend
+
 <a href="https://golang.org/" target="_blank" >
 <img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/golang.gif" />
 </a>
@@ -25,10 +25,8 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
 <a href="https://www.java.com/pt_PT/" target="_blank" >
 <img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/java-logo.gif"   />
   </a>
-</p>
- ### Frontend
-  <p>
 
+ ### Frontend
 
   <a href="https://reactjs.org/" target="_blank" >
     <img align="left" width="26px"  alt="React"  src="https://raw.githubusercontent.com/clio19/bio/master/assets/react.gif" />
@@ -39,8 +37,7 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
   <a href="https://vuejs.org/" target="_blank" >
     <img  align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/vue.gif"  /> 
   </a>
-  
-  </p>
+
   ### CSPs
   <p>
 
@@ -142,8 +139,7 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
-
-<img align="left" alt="Hctec's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
   
 
 ### 📫 How to reach me? 
