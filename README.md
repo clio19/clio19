@@ -87,7 +87,6 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
 [<img align="left" alt="hctec | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="hctec | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="hctec | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="hctec | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -112,7 +111,6 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
 
 <br />
 <br />
-
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -148,6 +146,6 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
   
 [website]: https://hctec.pt
 [twitter]: hhttps://twitter.com/htrixe
-[youtube]: https://youtube.com/htrixe
+[youtube]: https://www.youtube.com/channel/UCGyOlxpY2isQUrTzW5Tking
 [linkedin]: https://linkedin.com/in/htrixe
 
