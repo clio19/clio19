@@ -123,17 +123,8 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
 
 ---
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
 
----
-
-# StackOverflow Activity
-<!-- STACKOVERFLOW:START -->
-<!-- STACKOVERFLOW:END -->
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=clio19&show_icons=true&hide_border=true" />
+<img align="left" alt="Htrix's Github Stats" src="https://github-readme-stats.vercel.app/api?username=clio19&show_icons=true&hide_border=true" />
   
 
 ### 📫 How to reach me? 
