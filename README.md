@@ -11,7 +11,7 @@ I am [Hugo](https://hctec.pt/) - aka [Htrix][website] , a passionate and creativ
 
 I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
 
-  <br />
+ 
 
 <a href="https://golang.org/" target="_blank" >
 <img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/golang.gif" />
@@ -25,7 +25,9 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
 <a href="https://www.java.com/pt_PT/" target="_blank" >
 <img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/java-logo.gif"   />
   </a>
- ### Backend
+
+ ### Frontend
+
   <a href="https://reactjs.org/" target="_blank" >
     <img align="left" width="26px"  alt="React"  src="https://raw.githubusercontent.com/clio19/bio/master/assets/react.gif" />
   </a>
@@ -35,9 +37,10 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
   <a href="https://vuejs.org/" target="_blank" >
     <img  align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/vue.gif"  /> 
   </a>
- ### Frontend
-
   
+### CSPs
+  
+
   <a href="https://bit.ly/2W7a91W" target="_blank" >
     <img align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/do.gif" />
   </a>
@@ -47,25 +50,34 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
   <a href="https://heroku.com/" target="_blank" >
     <img align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/heroku.gif" />
   </a>
-  ### CSPs  
+ 
+### Monitoring
+ 
   <a href="https://grafana.com/" target="_blank" >
     <img  align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/grafana.gif"  />
   </a>
   <a href="https://prometheus.io/" target="_blank" >
     <img align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/prometheus.gif" />
   </a>
-  ### Monitoring
+
+### Databases
+
+ <p float="left">
   <a href="https://www.postgresql.org/" target="_blank" >
     <img align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/postgresql.gif" />
   </a>
+
   <a href="https://www.mongodb.com/" target="_blank" >
     <img align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/mongo.gif" />
   </a>
-  ### Databases
+</p>
+
+### Mobile
+
   <a href="https://www.android.com/" target="_blank" >
     <img align="left" width="26px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/android.png"  />
   </a>
-  ### Mobile
+  
   <br />
   
   ### Connect with me:
