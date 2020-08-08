@@ -3,15 +3,13 @@
 
 I am [Hugo](https://hctec.pt/) - aka [Htrix][website] , a passionate and creative software developer from [🇵🇹](https://en.wikipedia.org/wiki/Portugal)&nbsp; with some professional remote working experience. 🎯
 
-- 🔭 I’m currently working on [YOUR COMANY][website]!
+- 🔭 I’m currently working on... [ME!!!][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar 
 
 I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
-
- 
 
 <a href="https://golang.org/" target="_blank" >
 <img align="left" alt="Golang" width="36px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/golang.gif" />
@@ -78,8 +76,7 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
     <img align="left" width="36px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/android.png"  />
   </a>
   
- ### Mobile
-
+### Mobile
 
 ### 🥊 Languages and Tools:
 
@@ -99,16 +96,12 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
 <img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
 
 ### 📫 How to reach me? 
 
   ⦿ Visit my [Website](https://tecdreams.com) 🌐 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/htrixe/) 💻 <br>
   ⦿ Follow me on [Twitter](https://twitter.com/htrixe) 🐦 <br>
-  
-  
 
 ---
 
