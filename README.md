@@ -81,16 +81,10 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
 
  ### Mobile
  ---
- ### Connect with me:
-  
-[<img align="left" alt="tecdreams.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="hctec | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="hctec | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="hctec | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-### Languages and Tools:
+### 🥊 Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -108,8 +102,17 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
 <img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
+---
+
+### 📫 How to reach me? 
+
+  ⦿ Visit my [Website](https://tecdreams.com) 🌐 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/htrixe/) 💻 <br>
+  ⦿ Follow me on [Twitter](https://twitter.com/htrixe) 🐦 <br>
+  
+  
+
+---
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -124,17 +127,15 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
 
 
 <img align="left" alt="Htrix's Github Stats" src="https://github-readme-stats.vercel.app/api?username=clio19&show_icons=true&hide_border=true" />
-  
-<br />
-<br />
 
-### 📫 How to reach me? 
+ ### 🔌 Connect with me:
+  
+[<img align="left" alt="tecdreams.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="hctec | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="hctec | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="hctec | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-  ⦿ Visit my [Website](https://tecdreams.com) 🌐 <br>
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/htrixe/) 💻 <br>
-  ⦿ Follow me on [Twitter](https://twitter.com/htrixe) 🐦 <br>
-  
-  
+
   
 [website]: https://hctec.pt
 [twitter]: hhttps://twitter.com/htrixe
