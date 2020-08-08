@@ -11,6 +11,14 @@ I am [Hugo](https://hctec.pt/) - aka [Htrix][website] , a passionate and creativ
 
 I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
 
+
+### 📫 How to reach me? 
+
+  ⦿ Visit my [Website](https://tecdreams.com) 🌐 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/htrixe/) 💻 <br>
+  ⦿ Follow me on [Twitter](https://twitter.com/htrixe) 🐦 <br>
+
+
 <a href="https://golang.org/" target="_blank" >
 <img align="left" alt="Golang" width="36px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/golang.gif" />
 </a>
@@ -95,13 +103,6 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
 <img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-
-### 📫 How to reach me? 
-
-  ⦿ Visit my [Website](https://tecdreams.com) 🌐 <br>
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/htrixe/) 💻 <br>
-  ⦿ Follow me on [Twitter](https://twitter.com/htrixe) 🐦 <br>
 
 ---
 
