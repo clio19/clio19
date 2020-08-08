@@ -126,6 +126,8 @@ I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
 
 <img align="left" alt="Htrix's Github Stats" src="https://github-readme-stats.vercel.app/api?username=clio19&show_icons=true&hide_border=true" />
   
+<br />
+<br />
 
 ### 📫 How to reach me? 
 
