@@ -9,7 +9,7 @@ I am [Hugo](https://hctec.pt/) - aka [Htrix][website] , a passionate and creativ
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar 
 
-I mostly work with "Trendy" Javascript and React-Native technologies. 🚀
+I mostly work with "Trendy" Java⚡️script and React⚡️Native technologies. 🚀
 
 <a href="https://golang.org/" target="_blank" >
 <img align="left" alt="Golang" width="36px" src="https://raw.githubusercontent.com/clio19/bio/master/assets/golang.gif" />
