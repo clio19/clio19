@@ -88,11 +88,11 @@ I mostly work with "Trendy" Java⚡️script and React⚡️Native technologies.
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Instalando Uma App SPRING BOOT  Com DOKKU](https://tecdreams.com/instalando-uma-app-spring-boot-com-dokku/?utm_source=rss&utm_medium=rss&utm_campaign=instalando-uma-app-spring-boot-com-dokku)
 - [Angular a correr no firebase](https://tecdreams.com/angular-a-correr-no-firebase/?utm_source=rss&utm_medium=rss&utm_campaign=angular-a-correr-no-firebase)
 - [Scripts in powershell for developers](https://tecdreams.com/scripts-in-powershell-for-developers/?utm_source=rss&utm_medium=rss&utm_campaign=scripts-in-powershell-for-developers)
 - [Connecting by SSH without password on Mac](https://tecdreams.com/connecting-by-ssh-without-password-on-mac/?utm_source=rss&utm_medium=rss&utm_campaign=connecting-by-ssh-without-password-on-mac)
 - [Como criar um aplicativo de notícias com o React Native](https://tecdreams.com/como-criar-um-aplicativo-de-noticias-com-o-react-native/?utm_source=rss&utm_medium=rss&utm_campaign=como-criar-um-aplicativo-de-noticias-com-o-react-native)
-- [Geocoder: Exibir mapas e encontrar lugares no Rails](https://tecdreams.com/geocoder-exibir-mapas-e-encontrar-lugares-no-rails/?utm_source=rss&utm_medium=rss&utm_campaign=geocoder-exibir-mapas-e-encontrar-lugares-no-rails)
 <!-- BLOG-POST-LIST:END -->
 
 ---
