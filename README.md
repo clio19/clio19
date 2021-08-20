@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am [Hugo](https://hctec.pt/) - aka [Htrix][website] , a passionate and creative software developer from [🇵🇹](https://en.wikipedia.org/wiki/Portugal)&nbsp; with some professional remote working experience. 🎯
+I am [Hugo](https://htec.pt/) - aka [Htrix][website] , a passionate and creative software developer from [🇵🇹](https://en.wikipedia.org/wiki/Portugal)&nbsp; with some professional remote working experience. 🎯
 
 - 🔭 I’m currently working on... [ME!!!][website]!
 - 🌱 I’m currently learning everything 🤣
@@ -80,7 +80,7 @@ I mostly work with "Trendy" Java⚡️script and React⚡️Native technologies.
 
 ### 📫 How to reach me? 
 
-  ⦿ Visit my [Website](https://tecdreams.com) 🌐 <br>
+  ⦿ Visit my [Website](https://htec.pt) 🌐 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/htrixe/) 💻 <br>
   ⦿ Follow me on [Twitter](https://twitter.com/htrixe) 🐦 <br>
 
