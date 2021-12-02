@@ -80,7 +80,7 @@ I mostly work with "Trendy" Java⚡️script and React⚡️Native technologies.
 
 ### 📫 How to reach me? 
 
-  ⦿ Visit my [Website](https://hctec.pt) 🌐 <br>
+  ⦿ Visit my [Website](https://htrix.sytes.net) 🌐 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/htrixe/) 💻 <br>
   ⦿ Follow me on [Twitter](https://twitter.com/htrixe) 🐦 <br>
 
