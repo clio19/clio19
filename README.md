@@ -1,9 +1,9 @@
 ### Hi there 👋
-<div align="center">
+
  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <br/>
  Interested in connecting/networking? I'm on htec.pt (@htec.pt)
  </h2>
- </div>
+ 
 I´m [Hugo](https://htec.pt/) - aka [Htrix][website] , a passionate and creative software developer from [🇵🇹](https://en.wikipedia.org/wiki/Portugal)&nbsp; with some professional remote working experience. 🎯
 
 - 🔭 I’m currently working on... [ME!!!][website]!
